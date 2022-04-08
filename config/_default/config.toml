@@ -1,4 +1,4 @@
-baseurl = "https://doks-child-theme.netlify.app/"
+baseurl = "http://saineating.m00n.top/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -11,7 +11,7 @@ rssLimit = 10
 
 # Multilingual
 defaultContentLanguage = "en"
-disableLanguages = ["de", "nl"]
+disableLanguages = []
 # defaultContentLanguageInSubdir = true
 
 # add redirects/headers
