@@ -28,10 +28,7 @@
   identifier = "lorem"
   url = "/tutorial/lorem/"
 
-[[main]]
-name = "View Recipes"
-url = "https://www.saineating.ngx.fi/iter1/recipes/"
-weight = 10
+
 
 # [[main]]
 #  name = "Guide"
@@ -51,17 +48,22 @@ weight = 10
 
 [[main]]
 name = "News & Info"
-url = "/on-build/"
+url = "/under-construction/"
+weight = 10
+
+[[main]]
+name = "View Recipes"
+url = "https://www.saineating.ngx.fi/iter1/recipes/"
 weight = 15
 
 [[main]]
 name = "Diet Instructions"
-url = "/on-build/"
+url = "/under-construction/"
 weight = 20
 
 [[main]]
 name = "Online Service"
-url = "/on-build/"
+url = "/under-construction/"
 weight = 25
 
 [[main]]
