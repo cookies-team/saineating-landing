@@ -7,16 +7,16 @@
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2" 
-        href="/guide/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" 
-        role="button">Get Started</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>
+        href="https://www.saineating.ngx.fi/iter1/recipes/" 
+        role="button">Show Recipes</a>
+      <p class="meta">There are many different causes of obesity, and increasing in food portion sizes, marketing of junk foods to children, eating more meals away from home, and availability of high-calorie foods and drinks play important roles (Tammy, 2022). So it is important to promote healthy eating habits for your Child.</p>
     </div>
   </div>
 </section>
 {{ end }}
 
 {{ define "sidebar-prefooter" }}
-<section class="section section-sm">
+<!-- <section class="section section-sm">
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
@@ -47,14 +47,14 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 {{ end }}
 
 {{ define "sidebar-footer" }}
 <section class="section section-sm container-fluid">
   <div class="row justify-content-center text-center">
     <div class="col-lg-9">
-      {{- .Content -}}
+      {{- .Content -}} 
     </div>
   </div>
 </section>
