@@ -53,7 +53,7 @@ weight = 10
 
 [[main]]
 name = "View Recipes"
-url = "https://www.saineating.ngx.fi/iter1/recipes/"
+url = "https://saineating.c0mm4nd.com/iter1/recipes/"
 weight = 15
 
 [[main]]

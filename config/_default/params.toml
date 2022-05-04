@@ -12,7 +12,7 @@ description = "Doks is a Hugo theme for building secure, fast, and SEO-ready doc
 ## Open Graph
 images = ["Saineating.png"]
 ogLocale = "en_US"
-domainTLD = "saineating.ngx.fi"
+domainTLD = "saineating.c0mm4nd.com"
 titleHome = "Saineating"
 
 ## Twitter Cards
